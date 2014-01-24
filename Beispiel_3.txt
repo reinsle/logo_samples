@@ -1,0 +1,12 @@
+Legende:
+
+1) Die Säge wird über die Tasten I1 und I2 ein / ausgeschalten. Die Sicherheitskette ist vollständig geschlossen.
+2) Die Säge startet mit 3 Sekunden Verzögerung. Und das Band läuft 5 Sekunden nach, jedoch nicht wenn die Sicherheitskette anspricht.
+3) Betriebsleuchte, Störung als Leuchten
+
+Texte:
+
+Störung (1/4) 2 Hz
+Säge läuft
+Band läuft
+Deckel offen / zu
